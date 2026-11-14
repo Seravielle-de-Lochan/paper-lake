@@ -1,0 +1,5 @@
+{
+  "name": "paper-lake",
+  "owner": { "name": "Seravielle de Lochan" },
+  "plugins": [{ "name": "paper-lake", "source": "./" }]
+}

@@ -1,0 +1,7 @@
+{
+  "name": "paper-lake",
+  "version": "1.0.0",
+  "description": "A night lake in cut paper behind the conversation in the Claude desktop app: frogs on lily pads, rain that comes and goes, and falling stars that splash into the water.",
+  "author": { "name": "Seravielle de Lochan" },
+  "license": "Apache-2.0"
+}
